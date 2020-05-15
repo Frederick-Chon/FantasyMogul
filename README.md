@@ -4,7 +4,7 @@ Fantasy Mogul is a sample landing page for fantasy sports advice. The main goal 
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/FantasyMogul/)
 
 ## Built Using
 
